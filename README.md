@@ -4,7 +4,7 @@ This repository curates my solutions, reflections, and utility functions from th
 
 ## 📁 Structure
 
-- `challenges/`: Categorized solutions to Deep-ML tasks (e.g. classification, regression, NLP)
+- `challenges/`: Categorized solutions to Deep-ML tasks (e.g. Linear Algebra, Machine Learning, Deep Learning, DenseNet, ResNet)
 - `notebooks/`: Exploratory analysis and sandbox trials
 - `metadata/`: Tagging schemas, dataset notes, and challenge taxonomy
 - `utils/`: Reusable preprocessing and evaluation modules
