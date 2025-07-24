@@ -1,6 +1,6 @@
 # Deep-ML Solutions
 
-This repository curates my solutions, reflections, and utility functions from the [Deep-ML](https://deep-ml.com) challenge platform. It’s part of my learning arc focused on understanding the fundamentals of deep learning and machine learning programming and math, to aid in the development of intelligent systems.
+This repository curates my solutions, reflections, and utility functions from the [Deep-ML](https://www.deep-ml.com/problems) challenge platform. It’s part of my learning arc focused on understanding the fundamentals of deep learning and machine learning programming and math, to aid in the development of intelligent systems.
 
 ## Structure
 
