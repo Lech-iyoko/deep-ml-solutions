@@ -1,28 +1,20 @@
-# Deep-ML Solutions
+# Deep-ML & AI Engineering Solutions
 
-This repository curates my solutions, reflections, and utility functions from the [Deep-ML](https://www.deep-ml.com) challenge platform. It’s part of my learning arc focused on understanding the fundamentals of deep learning and machine learning programming and math, to aid in the development of intelligent systems.
+A curated repository documenting my solutions, reflections, and code for machine learning and deep learning programming challenges. This space serves as my personal knowledge base as I bridge the gap between theory and practical engineering.
 
-## Structure
+## About This Repository
+This repository is a core part of my learning journey towards a Master's in AI. It tracks my progress on challenges from the Deep-ML platform and custom tasks from my AI coaching sessions. The focus is not just on correct code, but on developing a robust, first-principles approach to problem-solving in AI.
 
-- `challenges/`: Categorized solutions to Deep-ML tasks (e.g. Linear Algebra, Machine Learning, Deep Learning, DenseNet, ResNet)
-- `notebooks/`: Exploratory analysis and sandbox trials
-- `metadata/`: Tagging schemas, dataset notes, and challenge taxonomy
-- `utils/`: Reusable preprocessing and evaluation modules
+## Goals & Philosophy
+This repository is an exercise in clarity, reasoning, and technical implementation. My primary goals are:
+- Bridge Theory and Code: Translate mathematical and theoretical concepts from machine learning into clean, functional Python code.
+- Develop Problem-Solving Intuition: Build strong analytical and computational thinking skills for data-driven problems.
+- Document the Learning Process: Use reflections on each problem to solidify understanding and track my development as an engineer.
 
-## Why This Matters
+## Repository Structure
+The repository is organized to keep code and context together:
 
-Structured learning: A place to learn how to implement the math in code behind these systems, problem solving for better computational thinking and learning to read programming syntax.
+- `challenges/`: Contains all problem solutions, categorized by their source (deep_ml_platform or coaching_sessions) and topic.
+  - Each individual challenge has its own folder containing the solution.py and a README.md with my notes and reflections on the approach.
 
-## Goals
-
-This repository is a learning space to deepen my understanding of problem framing, computational thinking, and how to translate mathematical intuition into code. Through these challenges, I'm refining:
-- Robust problem-solving instincts across data-driven contexts
-- Pseudocode fluency and architecture sense — what makes someone a great engineer
-- Programming syntax awareness for faster debugging and cleaner implementation
-
-Each challenge is an intentional exercise in clarity, reasoning, and technical storytelling.
-
-## About Me
-
-I'm currently preparing for a Master's in AI, using challenge-based learning to build a strong foundation in programming, math, and intelligent system design. 
-
+- `utils/`: A library of reusable Python modules for common tasks like data preprocessing or visualization.
